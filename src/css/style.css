@@ -1,0 +1,34 @@
+body {
+  background-color: #F5F3F0;
+}
+
+.container {
+  max-width: 1330px;
+  margin: 0 auto;
+  padding: 30px;
+}
+
+.cabecalho .container{
+  display: flex;
+  justify-content: space-between;
+}
+
+.banner img {
+  width: 100%;
+}
+
+.secaoProdutos {}
+.secaoProdutos . .produtoLista {}
+.secaoProdutos .cardProduto {
+  background-color: #fff;
+  width: 233px;
+  text-align: center;
+}
+.secaoProdutos .cardProduto img {}
+.secaoProdutos .cardProduto h3 {
+  color: #502314;
+  font-size: 20px;
+  font-weight: 700;
+}
+.secaoProdutos .cardProduto p {}
+.secaoProdutos .cardProduto button {}
