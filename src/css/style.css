@@ -84,6 +84,15 @@ body{
   color: #F7F5F0;
   margin-bottom: 18px;
 }
+
+.carrinho .infoUsuario h4{
+  font-weight: 500;
+  font-size: 28px;
+  color: #F7F5F0;
+  margin-bottom: 18px;
+}
+
+
 .carrinho .infoUsuario p{
   font-style: italic;
   font-weight: 200;
