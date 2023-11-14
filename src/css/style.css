@@ -69,7 +69,7 @@ body{
 .carrinho .infoResumo{
   background: #502314;
   border-radius: 32px 32px 0px 0px;
-  padding: 23px 0;
+  padding: 15px 0;
 }
 .carrinho .container{
   display: flex;
@@ -92,14 +92,6 @@ body{
   margin-bottom: 18px;
 }
 
-
-.carrinho .infoUsuario p{
-  font-style: italic;
-  font-weight: 200;
-  font-size: 22px;
-  line-height: 30px;
-  color: #F7F5F0;
-}
 .carrinho .infoResumo .infoPreco{
   font-weight: 400;
   font-size: 32px;
@@ -108,7 +100,7 @@ body{
 }
 
 .carrinho .resumoPedido{
-  width: 80%;
+  width: 60%;
 }
 .carrinho .resumoPedido .cardProduto{
   background: #F5F3F0;
