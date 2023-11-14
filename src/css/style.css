@@ -69,7 +69,8 @@ body{
 .carrinho .infoResumo{
   background: #502314;
   border-radius: 32px 32px 0px 0px;
-  padding: 15px 0;
+  padding: 15px 20px;
+  flex-direction: column-reverse;
 }
 .carrinho .container{
   display: flex;
@@ -102,6 +103,7 @@ body{
 .carrinho .resumoPedido{
   width: 60%;
 }
+
 .carrinho .resumoPedido .cardProduto{
   background: #F5F3F0;
   border-radius: 15px;
